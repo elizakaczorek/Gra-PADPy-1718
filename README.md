@@ -45,7 +45,7 @@ Moving the player:
 
 ### The sources
 
-Pliki graficzne i dźwiękowe zostały zaczerpnięte z następującacych źródeł /
+Pliki graficzne i dźwiękowe zostały zaczerpnięte z następującacych źródeł /  
 The graphic and sound files are from the following sources:
 
 Author: GameArt2D  
