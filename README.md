@@ -48,21 +48,14 @@ Moving the player:
 Pliki graficzne i dźwiękowe zostały zaczerpnięte z następującacych źródeł /
 The graphic and sound files are from the following sources:
 
-Author: GameArt2D
-
-License: CC0
-
-https://www.gameart2d.com/temple-run---free-sprites.html
-
-https://www.gameart2d.com/adventurer-girl---free-sprites.html
-
-https://www.gameart2d.com/free-platformer-game-tileset.html
-
-https://www.gameart2d.com/winter-platformer-game-tileset.html
-
-https://www.gameart2d.com/free-desert-platformer-tileset.html
-
-https://www.gameart2d.com/free-game-gui.html
+Author: GameArt2D  
+License: CC0  
+https://www.gameart2d.com/temple-run---free-sprites.html  
+https://www.gameart2d.com/adventurer-girl---free-sprites.html  
+https://www.gameart2d.com/free-platformer-game-tileset.html  
+https://www.gameart2d.com/winter-platformer-game-tileset.html  
+https://www.gameart2d.com/free-desert-platformer-tileset.html  
+https://www.gameart2d.com/free-game-gui.html  
 
 Author: Chequered Ink
 License: Free for Personal Use
