@@ -77,7 +77,7 @@ def how_to_play():
     screen.blit(text1, (200,25))
     
     items_sheet = pygame.image.load(os.path.join(ROOT_PATH,"images/Button.png")).convert() 
-    def get_image(x, y, width, height, a, b, color=BUT, sheet=items_sheet):
+    def get_image(x, y, width, height, a, b, color=BLACK, sheet=items_sheet):
         image = pygame.Surface([width, height]).convert()
         image.blit(sheet, (0, 0), (x, y, width, height)) 
         image = pygame.transform.scale(image, (a,b))
