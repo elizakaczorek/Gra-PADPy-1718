@@ -458,7 +458,7 @@ def main():
         text = font.render("Lives: " + str(player.lives), False, (255, 0, 0))
         screen.blit(text, (350,10))
         text = font.render("Total Score: " + str(player.score), False, (255, 0, 0))
-        screen.blit(text, (600,10))
+        screen.blit(text, (590,10))
 
         clock.tick(60)
         pygame.display.flip()
