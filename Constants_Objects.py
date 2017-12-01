@@ -3,7 +3,6 @@ import os
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
 BLUE = (0, 0, 255)
-BUT = (160,150,172)
  
 screen_width = 900 
 screen_height = 600 
