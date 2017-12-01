@@ -1,6 +1,5 @@
 # Gra-PADPy-1718
 
-
 ### Instrukcja
 
 Aby zagrać, należy uruchomić plik `Game.py`.
