@@ -1,0 +1,3 @@
+0 player
+9 bullet speed
+2 lives
