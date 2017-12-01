@@ -57,69 +57,69 @@ https://www.gameart2d.com/winter-platformer-game-tileset.html
 https://www.gameart2d.com/free-desert-platformer-tileset.html  
 https://www.gameart2d.com/free-game-gui.html  
 
-Author: Chequered Ink
-License: Free for Personal Use
-https://www.1001freefonts.com/the-messenger.font
+Author: Chequered Ink  
+License: Free for Personal Use  
+https://www.1001freefonts.com/the-messenger.font  
 
-Author: Blambot Fonts
-License: Free for Personal Use
+Author: Blambot Fonts  
+License: Free for Personal Use  
 https://www.1001freefonts.com/badaboom.font
 
-Author: pngtree
-License: CC0
+Author: pngtree  
+License: CC0  
 https://pngtree.com/freepng/flying-bullets_3013151.html
 
-Author: bevouliin.com
-License: CC0
-https://opengameart.org/content/bevouliin-free-punk-flappy-bird-sprite-sheets-for-game-developers
-https://opengameart.org/content/land-monster-sprites
-https://opengameart.org/content/bevouliin-free-walking-monster-sprite-sheets
+Author: bevouliin.com  
+License: CC0  
+https://opengameart.org/content/bevouliin-free-punk-flappy-bird-sprite-sheets-for-game-developers  
+https://opengameart.org/content/land-monster-sprites  
+https://opengameart.org/content/bevouliin-free-walking-monster-sprite-sheets  
 https://opengameart.org/content/free-ground-monster-sprite-sheet-for-game-developers
 
-Author: ProjectsU012
-License: CC BY 3.0
+Author: ProjectsU012  
+License: CC BY 3.0  
 https://freesound.org/people/ProjectsU012/sounds/341695/
 
-Author: yummie
-License: CC BY 3.0
+Author: yummie  
+License: CC BY 3.0  
 https://freesound.org/people/yummie/sounds/410574/
 
-djgriffin
-CC BY 3.0
+Author: djgriffin  
+License: CC BY 3.0  
 https://freesound.org/people/djgriffin/sounds/172561/
 
-Zoro_ezo
-CC BY 3.0
+Author: Zoro_ezo  
+License: CC BY 3.0  
 https://freesound.org/people/Zoro_ezo/sounds/401272/
 
-fins
-CC BY 3.0
+Author: fins  
+License: CC BY 3.0  
 https://freesound.org/people/fins/sounds/133278/
 
-noirenex
-CC BY 3.0
+Author: noirenex  
+License: CC BY 3.0  
 https://freesound.org/people/noirenex/sounds/159408/
 
-mickleness
-CC BY 3.0
+Author: mickleness  
+License: CC BY 3.0  
 https://freesound.org/people/mickleness/sounds/316975/
 
-fins
-CC BY 3.0
+Author: fins  
+License: CC BY 3.0  
 https://freesound.org/people/fins/sounds/146730/
 
-deleted_user_877451
-CC BY 3.0
+Author: deleted_user_877451  
+License: CC BY 3.0  
 https://freesound.org/people/deleted_user_877451/sounds/76376/
 
-LittleRobotSoundFactory
-CC BY 3.0
+Author: LittleRobotSoundFactory  
+License: CC BY 3.0  
 https://freesound.org/people/LittleRobotSoundFactory/sounds/270333/
 
-OwlStorm
-CC BY 3.0
+Author: OwlStorm  
+License: CC BY 3.0  
 https://freesound.org/people/OwlStorm/sounds/404793/
 
-GameAudio
-CC BY 3.0
+Author: GameAudio  
+License: CC BY 3.0  
 https://freesound.org/people/GameAudio/sounds/220203/
