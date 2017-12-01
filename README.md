@@ -7,7 +7,7 @@ Aby zagrać, należy uruchomić plik `Game.py`.
 
 #### Ogólne zasady
 
-Gra platforomowa. 
+Gra platformowa. 
 
 Gracz wciela się w postać Mario. Na swojej drodze spotyka zagrażające mu stworzenia, które może zabijać za pomocą strzałów. Za każdego wyeliminowanego przeciwnika dostaje 5 punktów. Gracz może także zbierać grzybki, dzięki którym zdobywa po 1 punkcie. Mario ma określoną liczbę żyć. Każde kolejne 100 punktów dodaje jedno życie. Gracz wygrywa, gdy przejdzie wszystkie światy.
 
